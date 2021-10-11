@@ -35,4 +35,4 @@
  
 </div> 
   
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=KLSDESIGNER&repo=KLSDESIGNER&theme=react)](https://github.com/KLSDESIGNER/KLSDESIGNER)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=KLSDESIGNER&repo=KLSDESIGNER&theme=react)](https://github.com/klsdesigner/klsdesigner)
