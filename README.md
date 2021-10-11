@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou aprendendo framework Laravel
 - 😄 Pronouns: ...
 
-<div>
+<div align="center">
   <!--https://github.com/klsdesigner-->
   <a href="https://www.behance.net/?tracking_source=typeahead_search_direct&search=klsdesigner"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klsdesigner&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
